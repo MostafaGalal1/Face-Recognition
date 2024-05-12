@@ -1,4 +1,4 @@
-# Face Recognition Assignment Readme
+# Face Recognition
 
 This repository contains the implementation of a face recognition assignment as part of a university course. The assignment involves using Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA) for classification on the ORL dataset, as well as exploring various aspects of classifier tuning and comparing results with non-face images.
 
